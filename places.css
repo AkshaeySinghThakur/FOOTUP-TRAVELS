@@ -1,0 +1,17 @@
+body
+{
+    background-color: black;
+}
+button
+{
+    background-color: green;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 10px;
+}
+table
+{
+    text-align: center;
+    border: none;
+}

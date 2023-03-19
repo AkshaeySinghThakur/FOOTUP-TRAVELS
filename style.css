@@ -1,0 +1,17 @@
+button
+{
+    background-color:#38f845;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+#footer
+{
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    align-items: center;
+}
